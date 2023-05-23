@@ -1,0 +1,7 @@
+First Name: a
+Last Name: b
+A/c No: 234
+
+Withdrawal: 100
+Withdrawal: 5000
+Deposit: 20000
